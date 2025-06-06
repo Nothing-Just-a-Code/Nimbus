@@ -1,7 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<item>
-  <version>2.0.0.0</version>
-  <url>https://rbsoft.org/downloads/AutoUpdaterTest.zip</url>
-  <changelog>https://pastebin.com/raw/iG8aG0Zh</changelog>
-  <mandatory>false</mandatory>
-</item>
+{"version":"2.0.0","changelog":["changes1","changes 2","changes3","changes4"],"ismajor":false}
