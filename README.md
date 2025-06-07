@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![Nimbus](https://github.com/user-attachments/assets/e62fe7de-e453-44c9-b5ae-2f869cce1d9d)" alt="Nimbus Banner" width="800"/>
+  <img src="https://github.com/user-attachments/assets/e62fe7de-e453-44c9-b5ae-2f869cce1d9d" alt="Nimbus Banner" width="250"/>
 </p>
 
 <h1 align="center">🌩️ Nimbus</h1>
@@ -7,7 +7,6 @@
 
 <hr>
 
----
 
 ## 🚀 Features
 
@@ -41,7 +40,14 @@ Nimbus uses a custom `.nbs` file extension to store FTP login credentials. These
 1. Install Nimbus using the setup installer
 2. Launch Nimbus and configure your FTP connection
 3. Save the session to a `.nbs` file for later use
-4. Double-click the `.nbs` file anytime to reopen your FTP session instantly
+4. Double-click the `.nbs` file anytime to reopen your FTP session instantly---
+
+## 🖼️ Screenshots
+
+  <img src="https://github.com/user-attachments/assets/12084b43-6b6d-42d2-9d5a-b527c0db1392" alt="Login Screen"/>
+
+  <img src="https://github.com/user-attachments/assets/c48c0ba4-7196-423a-a6b2-25f2034e4dda" alt="Main Screen"/>
+
 
 ---
 
