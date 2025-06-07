@@ -1,0 +1,88 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>Nimbus_FTP_Client</RootNamespace>
+    <StartupObject>Sub Main</StartupObject>
+    <UseWindowsForms>true</UseWindowsForms>
+    <MyType>WindowsForms</MyType>
+    <ImportedNamespaces>Microsoft.WindowsAPICodePack.Shell=False,Microsoft.WindowsAPICodePack.Shell.Interop=False,Microsoft.WindowsAPICodePack.Shell.PropertySystem=False,System.Data=False,System.Drawing=False,System.Windows.Forms=False,Microsoft.VisualBasic=True,System=True,System.Collections=True,System.Collections.Generic=True,System.Diagnostics=True,System.Linq=True,System.Xml.Linq=True,System.Threading.Tasks=True,Nimbus FTP Client=True</ImportedNamespaces>
+    <ApplicationIcon>Papirus-Team-Papirus-Apps-Github-danrabbit-nimbus.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Papirus-Team-Papirus-Apps-Github-danrabbit-nimbus.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Import Include="Microsoft.WindowsAPICodePack.Shell" />
+    <Import Include="Microsoft.WindowsAPICodePack.Shell.Interop" />
+    <Import Include="Microsoft.WindowsAPICodePack.Shell.PropertySystem" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google_GenerativeAI" Version="2.7.0" />
+    <PackageReference Include="Google_GenerativeAI.Tools" Version="2.7.0" />
+    <PackageReference Include="Microsoft-WindowsAPICodePack-Shell" Version="1.1.5" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Ookii.Dialogs.WinForms" Version="4.0.0" />
+    <PackageReference Include="Scintilla5.NET" Version="6.0.1" />
+    <PackageReference Include="System.ValueTuple" Version="4.5.0" />
+    <PackageReference Include="Vax-FCTB" Version="2.17.0.201" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="CredentialManagement">
+      <HintPath>..\..\Nimbus\Nimbus\bin\Debug\net8.0-windows\CredentialManagement.dll</HintPath>
+    </Reference>
+    <Reference Include="FluentFTP">
+      <HintPath>..\..\..\..\Desktop\FluentFTP-master\FluentFTP\bin\Debug\net7.0\FluentFTP.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.WindowsAPICodePack">
+      <HintPath>..\..\Nimbus\Nimbus\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="My Project\Application.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Update="My Project\Resources.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Update="NimbusResources.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>NimbusResources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="My Project\Resources.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="NimbusResources.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>NimbusResources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+</Project>

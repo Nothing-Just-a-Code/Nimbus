@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\CertCheckup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ChangePermission.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Credits.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Profiles.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gemini AI\CodeGenerator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CreateNewDirectory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\DownloadFolder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FileSearcher.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\NEditor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Settings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Splash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gemini AI\MessageBubble.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Gemini AI\Gemini.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

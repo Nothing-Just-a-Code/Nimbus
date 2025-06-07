@@ -1,0 +1,65 @@
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Lexilla.dll
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Scintilla.dll
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\runtimes\win-x64\native\Lexilla.dll
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\runtimes\win-x64\native\Scintilla.dll
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\runtimes\win-x86\native\Lexilla.dll
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\runtimes\win-x86\native\Scintilla.dll
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\Nimbus FTP Client.exe
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\Nimbus FTP Client.deps.json
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\Nimbus FTP Client.runtimeconfig.json
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\Nimbus FTP Client.dll
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\Nimbus FTP Client.pdb
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\CSharpToJsonSchema.dll
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\GenerativeAI.dll
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\GenerativeAI.Tools.dll
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\Microsoft.Extensions.AI.Abstractions.dll
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\Ookii.Dialogs.WinForms.dll
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\Scintilla.NET.dll
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\FastColoredTextBox.dll
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\CredentialManagement.dll
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\FluentFTP.dll
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\FluentFTP.pdb
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\bin\Debug\net8.0-windows\FluentFTP.xml
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\obj\Debug\net8.0-windows\Nimbus FTP Client.vbproj.AssemblyReference.cache
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\obj\Debug\net8.0-windows\Nimbus_FTP_Client.CertCheckup.resources
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\obj\Debug\net8.0-windows\Nimbus_FTP_Client.ChangePermission.resources
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\obj\Debug\net8.0-windows\Nimbus_FTP_Client.CreateNewDirectory.resources
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\obj\Debug\net8.0-windows\Nimbus_FTP_Client.Credits.resources
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\obj\Debug\net8.0-windows\Nimbus_FTP_Client.DownloadFolder.resources
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\obj\Debug\net8.0-windows\Nimbus_FTP_Client.FileSearcher.resources
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\obj\Debug\net8.0-windows\Nimbus_FTP_Client.Login.resources
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\obj\Debug\net8.0-windows\Nimbus_FTP_Client.NEditor.resources
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\obj\Debug\net8.0-windows\Nimbus_FTP_Client.Profiles.resources
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\obj\Debug\net8.0-windows\Nimbus_FTP_Client.Settings.resources
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\obj\Debug\net8.0-windows\Nimbus_FTP_Client.Splash.resources
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\obj\Debug\net8.0-windows\Nimbus_FTP_Client.CodeGenerator.resources
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\obj\Debug\net8.0-windows\Nimbus_FTP_Client.Gemini.resources
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\obj\Debug\net8.0-windows\Nimbus_FTP_Client.MessageBubble.resources
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\obj\Debug\net8.0-windows\Nimbus_FTP_Client.MainForm.resources
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\obj\Debug\net8.0-windows\Nimbus_FTP_Client.Resources.resources
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\obj\Debug\net8.0-windows\Nimbus_FTP_Client.NimbusResources.resources
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\obj\Debug\net8.0-windows\Nimbus FTP Client.vbproj.GenerateResource.cache
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\obj\Debug\net8.0-windows\Nimbus FTP Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\obj\Debug\net8.0-windows\Nimbus FTP Client.AssemblyInfoInputs.cache
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\obj\Debug\net8.0-windows\Nimbus FTP Client.AssemblyInfo.vb
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\obj\Debug\net8.0-windows\Nimbus FTP Client.vbproj.CoreCompileInputs.cache
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\obj\Debug\net8.0-windows\Nimbus F.6FC7B33C.Up2Date
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\obj\Debug\net8.0-windows\Nimbus FTP Client.dll
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\obj\Debug\net8.0-windows\refint\Nimbus FTP Client.dll
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\obj\Debug\net8.0-windows\Nimbus FTP Client.pdb
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\obj\Debug\net8.0-windows\Nimbus FTP Client.genruntimeconfig.cache
+C:\Users\Kabir\source\repos\Nimbus FTP Client\Nimbus FTP Client\obj\Debug\net8.0-windows\ref\Nimbus FTP Client.dll

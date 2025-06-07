@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "NAxqb9xb+cA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kabir\\source\\repos\\Nimbus FTP Client\\Nimbus FTP Client\\Nimbus FTP Client.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kabir\\.nuget\\packages\\csharptojsonschema\\3.10.2-dev.39\\csharptojsonschema.3.10.2-dev.39.nupkg.sha512",
+    "C:\\Users\\Kabir\\.nuget\\packages\\google_generativeai\\2.7.0\\google_generativeai.2.7.0.nupkg.sha512",
+    "C:\\Users\\Kabir\\.nuget\\packages\\google_generativeai.tools\\2.7.0\\google_generativeai.tools.2.7.0.nupkg.sha512",
+    "C:\\Users\\Kabir\\.nuget\\packages\\microsoft-windowsapicodepack-core\\1.1.5\\microsoft-windowsapicodepack-core.1.1.5.nupkg.sha512",
+    "C:\\Users\\Kabir\\.nuget\\packages\\microsoft-windowsapicodepack-shell\\1.1.5\\microsoft-windowsapicodepack-shell.1.1.5.nupkg.sha512",
+    "C:\\Users\\Kabir\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\9.4.0-preview.1.25207.5\\microsoft.extensions.ai.abstractions.9.4.0-preview.1.25207.5.nupkg.sha512",
+    "C:\\Users\\Kabir\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.3\\microsoft.extensions.dependencyinjection.9.0.3.nupkg.sha512",
+    "C:\\Users\\Kabir\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.3\\microsoft.extensions.dependencyinjection.abstractions.9.0.3.nupkg.sha512",
+    "C:\\Users\\Kabir\\.nuget\\packages\\microsoft.extensions.logging\\9.0.3\\microsoft.extensions.logging.9.0.3.nupkg.sha512",
+    "C:\\Users\\Kabir\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.3\\microsoft.extensions.logging.abstractions.9.0.3.nupkg.sha512",
+    "C:\\Users\\Kabir\\.nuget\\packages\\microsoft.extensions.options\\9.0.3\\microsoft.extensions.options.9.0.3.nupkg.sha512",
+    "C:\\Users\\Kabir\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.3\\microsoft.extensions.primitives.9.0.3.nupkg.sha512",
+    "C:\\Users\\Kabir\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Kabir\\.nuget\\packages\\ookii.dialogs.winforms\\4.0.0\\ookii.dialogs.winforms.4.0.0.nupkg.sha512",
+    "C:\\Users\\Kabir\\.nuget\\packages\\scintilla5.net\\6.0.1\\scintilla5.net.6.0.1.nupkg.sha512",
+    "C:\\Users\\Kabir\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.3\\system.diagnostics.diagnosticsource.9.0.3.nupkg.sha512",
+    "C:\\Users\\Kabir\\.nuget\\packages\\system.io.pipelines\\9.0.3\\system.io.pipelines.9.0.3.nupkg.sha512",
+    "C:\\Users\\Kabir\\.nuget\\packages\\system.resources.extensions\\6.0.0\\system.resources.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kabir\\.nuget\\packages\\system.text.encodings.web\\9.0.3\\system.text.encodings.web.9.0.3.nupkg.sha512",
+    "C:\\Users\\Kabir\\.nuget\\packages\\system.text.json\\9.0.3\\system.text.json.9.0.3.nupkg.sha512",
+    "C:\\Users\\Kabir\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\Kabir\\.nuget\\packages\\vax-fctb\\2.17.0.201\\vax-fctb.2.17.0.201.nupkg.sha512"
+  ],
+  "logs": []
+}
