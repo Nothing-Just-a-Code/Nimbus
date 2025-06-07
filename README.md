@@ -5,6 +5,10 @@
 <h1 align="center">🌩️ Nimbus</h1>
 <p align="center"><em>A modern desktop FTP client for developers and power users.</em></p>
 
+<p align="left">
+  <img src="https://img.shields.io/github/downloads/Nothing-Just-a-Code/Nimbus/total?label=Downloads" alt="Downloads"/>
+  <img src="https://img.shields.io/github/v/release/Nothing-Just-a-Code/Nimbus?label=Latest%20Release" alt="Release"/>
+</p>
 <hr>
 
 
